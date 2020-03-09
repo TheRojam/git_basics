@@ -1,0 +1,13 @@
+[core]
+	excludesfile = /home/$username/.gitignore.global
+[user]
+	name = Anton Mueller
+	email = mueller.a@st-sportservice.com
+[github]
+	name = $YourUsername
+	email = e@mail.xyz
+[gitlab]
+	name = $YourUsername
+	email = e@mail.xyz
+[url "git@github.com:"]
+	insteadOf = https://github.com
